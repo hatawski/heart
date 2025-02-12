@@ -7,7 +7,7 @@ function handleYesClick() {
     gifContainer.src = "https://media.tenor.com/arqlNu8gyJYAAAAM/cat-cat-jumping.gif"; 
     
     const heading = document.querySelector('h1');
-    heading.textContent = "YES!!! 10am may date tayo bukas 💖 hahaha";
+    heading.textContent = "YIPPIE!!! YOU CLICKED YES ❤️ 💜 💖 hahaha";
 
     
     const buttons = document.querySelector('.buttons');
